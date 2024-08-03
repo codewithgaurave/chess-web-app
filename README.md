@@ -1,2 +1,2 @@
 # chess-web-app
-play ludo online
+play chess online
